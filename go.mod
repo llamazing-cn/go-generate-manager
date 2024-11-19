@@ -1,4 +1,4 @@
-module llamazing.cn/go-genreate-manager
+module github.com/llamazing-cn/go-generate-manager
 
 go 1.23.0
 

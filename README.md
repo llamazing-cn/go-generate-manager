@@ -13,7 +13,7 @@
 ## 安装
 
 ```bash
-go install llamazing.cn/go-genreate-manager/cmd/gogen@latest
+go install github.com/llamazing-cn/go-generate-manager/cmd/gogen@latest
 ```
 
 ## 使用方法
