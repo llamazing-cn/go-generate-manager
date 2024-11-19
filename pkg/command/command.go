@@ -9,7 +9,7 @@ import (
 	"regexp"
 	"strings"
 
-	"llamazing.cn/go-genreate-manager/pkg/generator"
+	"github.com/llamazing-cn/go-generate-manager/pkg/generator"
 )
 
 // GoGenCommand 实现了 generator.Command 接口
