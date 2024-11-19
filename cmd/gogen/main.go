@@ -9,10 +9,10 @@ import (
 	"runtime"
 	"time"
 
-	"llamazing.cn/go-genreate-manager/pkg/cache"
-	"llamazing.cn/go-genreate-manager/pkg/command"
-	"llamazing.cn/go-genreate-manager/pkg/generator"
-	"llamazing.cn/go-genreate-manager/pkg/hash"
+	"github.com/llamazing-cn/go-generate-manager/pkg/cache"
+	"github.com/llamazing-cn/go-generate-manager/pkg/command"
+	"github.com/llamazing-cn/go-generate-manager/pkg/generator"
+	"github.com/llamazing-cn/go-generate-manager/pkg/hash"
 )
 
 const usage = `Usage: gogen [options]
