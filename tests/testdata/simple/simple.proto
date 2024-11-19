@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+package simple;
+
+option go_package = "llamazing.cn/go-genreate-manager/tests/testdata/simple";
+
+message SimpleMessage {
+    string value = 1;
+} 
